@@ -1,0 +1,4 @@
+bus
+lorry
+car
+bike
